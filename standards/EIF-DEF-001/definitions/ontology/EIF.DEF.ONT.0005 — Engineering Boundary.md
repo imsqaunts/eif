@@ -2,6 +2,7 @@
 id: EIF.DEF.ONT.0005
 title: Engineering Boundary
 layer: Ontological
+category: Context Ontology
 status: Normative
 release: "1.0"
 version: "1.0.0"

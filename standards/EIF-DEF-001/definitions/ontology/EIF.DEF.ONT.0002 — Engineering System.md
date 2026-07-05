@@ -2,6 +2,7 @@
 id: EIF.DEF.ONT.0002
 title: Engineering System
 layer: Ontological
+category: Structural Ontology
 status: Normative
 release: "1.0"
 version: "1.0.0"
