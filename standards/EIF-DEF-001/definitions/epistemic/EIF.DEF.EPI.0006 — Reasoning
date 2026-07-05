@@ -1,0 +1,179 @@
+---
+id: EIF.DEF.EPI.0006
+title: Reasoning
+
+layer: Epistemological
+category: Engineering Discovery
+lifecycle_phase: Engineering Discovery
+
+status: Normative
+release: "1.0"
+version: "1.0.0"
+
+governing_verb: Derives
+
+depends_on:
+  - EIF.DEF.EPI.0005
+
+related_to:
+  - EIF.DEF.EPI.0007
+
+principles:
+  - SLP-001
+
+adrs:
+  - EIF-ADR-007
+  - EIF-ADR-009
+
+---
+
+# EIF.DEF.EPI.0006 — Reasoning
+
+## Canonical Definition
+
+> **Reasoning** is the disciplined engineering activity that derives logical conclusions from one or more Engineering Understanding constructs to establish coherent explanations, inferences, hypotheses, or judgments about Engineering Reality.
+
+---
+
+## Intent
+
+Reasoning establishes the analytical capability of Engineering Discovery.
+
+It derives disciplined engineering conclusions from contextualized Engineering Understanding to explain Engineering Reality and prepare the foundation for Engineering Insight.
+
+Reasoning neither acquires evidence nor directly recommends engineering actions.
+
+Its sole purpose is to derive logically coherent conclusions from Engineering Understanding.
+
+---
+
+## Governing Responsibility
+
+Reasoning uniquely **derives** logical conclusions from Engineering Understanding.
+
+It neither contextualizes Knowledge nor establishes Engineering Insight.
+
+Its sole responsibility is to derive coherent engineering conclusions suitable for subsequent Engineering Insight.
+
+---
+
+## Characteristics
+
+Reasoning:
+
+- derives conclusions from one or more Engineering Understanding constructs;
+- depends upon the quality of Engineering Knowledge and Engineering Understanding;
+- establishes engineering explanations, inferences, hypotheses, or judgments;
+- may employ analytical, computational, statistical, heuristic, logical, or AI-assisted reasoning methods;
+- is constrained by Engineering Cognition Capability;
+- enables Engineering Insight;
+- exists throughout one or more Temporal Extents.
+
+---
+
+## Relationships
+
+| Relationship | Target |
+|--------------|--------|
+| derives from | Engineering Understanding |
+| depends upon | Engineering Cognition Capability |
+| enables | Insight |
+| establishes conclusions about | Engineering Reality |
+
+---
+
+## Temporal Perspective
+
+Reasoning exists throughout one or more **Temporal Extents**.
+
+Reasoning may evolve as Engineering Knowledge, Engineering Understanding, engineering context, or Engineering Cognition Capability evolves.
+
+---
+
+## Examples
+
+### Software Engineering
+
+Reasoning that recurring deployment failures originate from architectural coupling rather than deployment tooling after evaluating deployment history, dependency structure, and operational context.
+
+---
+
+### Manufacturing Engineering
+
+Reasoning that declining production throughput results from process bottlenecks rather than equipment reliability after analyzing production evidence and operational understanding.
+
+---
+
+### Enterprise Architecture
+
+Reasoning that increasing technical debt is primarily driven by governance deficiencies rather than technology choices after synthesizing architectural evidence and organizational understanding.
+
+---
+
+## Non-examples
+
+### Engineering Understanding
+
+Engineering Understanding establishes contextual comprehension.
+
+Reasoning derives logical conclusions from that understanding.
+
+---
+
+### Insight
+
+Insight identifies engineering significance and enables intentional decisions.
+
+Reasoning prepares the foundation upon which Insight is established.
+
+---
+
+### Measurement
+
+Measurement acquires evidence from Engineering Reality.
+
+Reasoning operates upon Engineering Understanding rather than directly upon Engineering Reality.
+
+---
+
+## Notes
+
+### Note 1 — Quality of Reasoning
+
+The quality of Engineering Reasoning depends upon the quality of Engineering Knowledge and Engineering Understanding from which it derives conclusions.
+
+Consequently, deficient Engineering Perception or Engineering Discovery may produce deficient Engineering Reasoning.
+
+---
+
+### Note 2 — Cognition Capability
+
+Engineering Reasoning is constrained by Engineering Cognition Capability.
+
+Engineering intelligences possessing identical Engineering Understanding may derive different conclusions according to differences in cognition capability.
+
+---
+
+### Note 3 — Reasoning Precedes Insight
+
+Engineering Reasoning derives coherent conclusions.
+
+Engineering Insight identifies the engineering significance of those conclusions and enables intentional Engineering Decisions.
+
+---
+
+## Traceability
+
+| Source | Reference |
+|---------|-----------|
+| EIF-CON-001 | Engineering Intelligence Constitution |
+| EIF-ONT-001 | Engineering Ontology |
+| EIF-RM-001 | Engineering Intelligence Lifecycle |
+| EIF-AXM-001 | Engineering Intelligence Axioms |
+| EIF-ADR-007 | Engineering Discovery Space |
+| EIF-ADR-009 | Engineering Cognition Capability |
+| SLP-001 | Semantic Layering Principle |
+
+---
+
+**Status:** ✅ Frozen for **EIF.DEF-001 Release 1**
